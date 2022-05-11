@@ -1,2 +1,2 @@
-# react-hooks-deps
+# reactive-pokemon
 Created with CodeSandbox
